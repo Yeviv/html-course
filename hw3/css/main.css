@@ -1,0 +1,181 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.wrapper1 {
+    background-color: #008800;
+    padding: 20px;
+}
+
+.content {
+    border: 2px dashed #000;
+    padding: 20px;
+}
+
+header h1 {
+    text-align: center;
+    color: #f5e700;
+}
+
+.text {
+    padding: 20px;
+}
+
+.text p {
+    text-align: justify;
+}
+
+.tableWrapper {
+    background-color: #f5e700;
+    padding: 0 20px 40px;
+}
+
+table {
+    margin: 0 auto;
+    border: ridge grey;
+}
+
+td {
+    border: ridge grey;
+    width: 100px;
+    height: 30px;
+}
+
+.td1 {
+    border: ridge red;
+    background-color: #fff;
+}
+
+.td2 {
+    border: ridge #1a0109;
+}
+
+.td3 {
+    border: ridge #0700ff;
+    background-color: #61cdff;
+}
+
+.td4 {
+    border: ridge #ffa9f2;
+    background-color: #ff49c6;
+}
+
+.td5 {
+    border: ridge #98001c;
+    background-color: #ff367f;
+}
+
+.td6 {
+    border: ridge #882e93;
+    background-color: #789c1d;
+}
+
+.sectionSecond {
+    background-color: grey;
+    padding: 20px 0 10px 20px;
+}
+
+.sectionSecond .contentTextGray {
+    padding: 20px;
+    background-color: grey;
+    border: 3px dashed #000;
+}
+
+.sectionSecondPSecond {
+    padding: 20px;
+    text-align: right;
+}
+
+.sectionSecondPSecond span {
+    text-decoration: underline;
+}
+
+.secondTable {
+    background-color: #000;
+    padding: 40px 20px 20px 20px;
+}
+
+.secondTable table {
+    border: 2px ridge purple;
+    border-collapse: collapse;
+}
+
+.secondTable td {
+    border: 2px ridge purple;
+    color: #fff;
+    text-align: center;
+}
+
+.bgColorPink {
+    background-color: pink;
+}
+
+.bgColorYellow {
+    background-color: #fffb00;
+}
+
+.bgColorBlue {
+    background-color: cornflowerblue;
+}
+
+.bgColorAqua {
+    background-color: aquamarine;
+}
+
+.bgColorBlack {
+    background-color: #000;
+}
+
+.secondTable .textColorRed {
+    color: red;
+}
+
+.secondTable .textColorBlack {
+    color: black;
+}
+
+.sectionThird {
+    padding: 15px;
+    background-color: #008800;
+}
+
+.contentSectionThird {
+    border: 1px dashed black;
+}
+
+.contentSectionThird p {
+    color: #fff;
+    padding: 15px;
+    font-weight: bold;
+}
+
+.underline {
+    text-decoration: underline;
+    color: grey;
+}
+
+.textDecorationBlink {
+    border-bottom: 1px dashed white;
+}
+
+.divTableThird {
+    background-color: yellow;
+    width: 90%;
+    margin: auto;
+    padding-bottom: 20px;
+}
+
+.tableThird {
+    border: 1px solid red;
+    font-weight: bold;
+}
+.tableThird td {
+    padding: 0 5px ;
+    border: 1px solid blue;
+} .textColorRed{
+    color: red;
+}
+  .bigNumber{
+      font-size: 2em;
+  }
